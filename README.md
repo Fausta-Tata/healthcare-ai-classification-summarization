@@ -16,7 +16,7 @@ Healthcare Documentation Database on Kaggle
 URL: https://www.kaggle.com/datasets/harshitstark/healthcare-documentation-database?resource=download
 
 ## Insight & findings
-Initial analysis showed a classification accuracy of around **40%**. However, a deeper analysis revealed that this low accuracy was **not due to model failure**, but rather to quality issues within the original dataset's labels.
+Analysis showed a classification accuracy of around **40%**. However, a deeper analysis revealed that this low accuracy was **not due to model failure**, but rather to quality issues within the original dataset's labels.
 
 The key findings are:
 1.  **The AI is More Specific than the Dataset:** In many cases, the AI provided answers that were more detailed and contextually accurate than the original labels.
